@@ -2,6 +2,11 @@
 
 An intelligent documentation extraction tool powered by Zypher Agent and Firecrawl. This tool automatically crawls documentation websites and generates comprehensive guides based on your needs.
 
+## Demo
+
+Watch a quick demo of the tool in action:
+
+🎥 [View Demo Video](https://www.loom.com/share/187f486dd64a4293856e4958be519f66)
 
 ## Setup
 
