@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "dev": "deno run -A main.ts",
+    "server": "deno run -A server.ts"
+  },
+  "imports": {
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.0",
+    "@corespeed/zypher": "jsr:@corespeed/zypher@^0.4.0",
+    "@oak/oak": "jsr:@oak/oak@^17.1.3",
+    "rxjs-for-await": "npm:rxjs-for-await@^1.0.0"
+  }
+}

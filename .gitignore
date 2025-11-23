@@ -1,0 +1,18 @@
+# Deno
+.env
+deno.lock
+
+# Node modules
+node_modules/
+
+# Generated docs
+generated-docs/*.md
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
