@@ -6,7 +6,7 @@ An intelligent documentation extraction tool powered by Zypher Agent and Firecra
 
 Watch a quick demo of the tool in action:
 
-🎥 [View Demo Video](https://www.loom.com/share/187f486dd64a4293856e4958be519f66)
+🎥 [View Demo Video](https://www.loom.com/share/337cd99cd5604fecada46ef910be5989)
 
 ## Setup
 
